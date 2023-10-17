@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 teste teste teste
 yyyyyyyyyyyyyyyyyy
+=======
+ZZZZZZZZZZZZZZZZZ
+>>>>>>> testmerge
